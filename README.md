@@ -10,7 +10,7 @@
 - SSD: Samsung 970 EVO plus 512 **[Link](https://memoryzone.com.vn/ssd-samsung-970-evo-plus-pcie-nvme-v-nand-m-2-2280-500gb-mz-v7s500bw)**
 - Wifi card: Broadcom BCM94352Z **[Link](https://shopee.vn/Card-WiFi-DW1560-(BCM94352Z)-cho-laptop-c%C3%B3-ch%C3%A2n-m2-ngff-i.74031021.7255189037)**
 
-    ![About this Mac](/[Images/Screen_SystemInformation.png)
+    ![About this Mac](Images/Screen_SystemInformation.png)
 
 # Guide Hackintosh + OpenCore
 - **[Opencore](https://dortania.github.io/OpenCore-Desktop-Guide)**.
