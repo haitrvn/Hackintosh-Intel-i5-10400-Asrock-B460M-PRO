@@ -1,5 +1,5 @@
 # Language: [[English]](README.md)[Vietnames]
-# Hackintosh-Intel-i5-10400-Asrock-B460M-PRO(OpenCore 0.9.0 - macOS Ventura 13.2.1)
+# Hackintosh-Intel-i5-10400-Asrock-B460M-PRO(OpenCore 0.9.0 - macOS Ventura 13.2.1, updated 13.3)
 
 # Thông tin máy
 
@@ -10,6 +10,7 @@
 - Wifi card: Broadcom BCM94352Z **[Link mua](https://shopee.vn/Card-WiFi-DW1560-(BCM94352Z)-cho-laptop-c%C3%B3-ch%C3%A2n-m2-ngff-i.74031021.7255189037)**
 
     ![Màn hình chính](Images/Screen_SystemInformation.png)
+    ![GeekBench_Benchmarks](Images/GeekBench_Benchmarks.png)
 
 # Nguồn Hackintosh + OpenCore
 - **[Trang chủ opencore](https://dortania.github.io/OpenCore-Desktop-Guide)**.
